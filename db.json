@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "0591fea3-faef-4817-bcdc-61c1e1f0c5c8",
+      "name": "Greeshma sree Putti",
+      "email": "puttigreeshmasree@gmail.com",
+      "passwordHash": "$2a$10$fgoQRdadUimAYGR7X2TM6OwGdqsJJy8QoSikHjHJU7YSy6QtH/LHq",
+      "bio": "New social media user",
+      "avatar": "https://stock.adobe.com/search?k=stylish+avatar",
+      "createdAt": "2026-06-15T07:15:36.355Z"
+    }
+  ],
+  "posts": [],
+  "comments": [],
+  "likes": [],
+  "followers": []
+}
